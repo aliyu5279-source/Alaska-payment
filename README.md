@@ -1,1 +1,1 @@
-# Alaska-pay
+node.js setup
