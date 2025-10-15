@@ -35,5 +35,6 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 Auto fix and deploy  to netlify
+Auto add package. json
 
 
